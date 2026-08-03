@@ -11,8 +11,8 @@ require (
 	github.com/iovisor/gobpf v0.2.0
 	github.com/jaypipes/pcidb v1.1.1
 	github.com/mdlayher/sdnotify v1.0.0
-	github.com/prometheus/client_golang v1.23.2
-	github.com/prometheus/common v0.69.0
+	github.com/prometheus/client_golang v1.24.1
+	github.com/prometheus/common v0.70.1
 	go.opentelemetry.io/contrib/exporters/autoexport v0.69.0
 	go.opentelemetry.io/otel v1.44.0
 	go.opentelemetry.io/otel/sdk v1.44.0
